@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+}
+div{}
+span{
+	font-size: 20px 
+
+}
+
+.container{    width: 1000px;
+    height: 800px;
+    background: gray;
+    margin: 0 auto;
+
+}
+
+.box1{
+	    width: 333.33px;
+    height: 400px;
+    background: red;
+    float: left;
+}
+.box2{
+	    width: 333.33px;
+    height: 400px;
+    background: blue;
+    float: left;
+}
+.box3{    width: 333.33px;
+    height: 400px;
+    background: green;
+    float: left;
+}
+.box4{
+	    width: 333.33px;
+    height: 400px;
+    background: yellow;
+    float: left;
+}
+.box5{
+	    width: 333.33px;
+    height: 400px;
+    background: purple;
+    float: left;
+}
+.box6{
+	    width: 333.33px;
+    height: 400px;
+    background: orange;
+    float: left;
+}
